@@ -14,6 +14,7 @@ hidden:
 maxdepth: 1
 ---
 
+enum-evolution
 usage
 reference
 contributing
