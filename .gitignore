@@ -8,3 +8,26 @@
 /docs/_build/
 /src/*.egg-info/
 __pycache__/
+
+
+
+.DS_Store
+.vscode
+.idea
+
+# Ignore env file
+.env
+
+# scratch files and folders
+scratch*
+cook*
+hacking
+
+# Code generation airtable
+CodeGenerationTools/GridworksCore/SassyMQ/
+CodeGenerationTools/GridworksCore/.ssotme/**/*.zfs
+
+
+# Ignore coverage
+.coverage
+htmlcov
