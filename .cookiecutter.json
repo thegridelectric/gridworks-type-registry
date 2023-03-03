@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/Users/jess/Coding/GridWorks/Platform",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "gridworks",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "gridworks@gidworks-consulting.com",
+  "friendly_name": "Gridworks Type Registry",
+  "github_user": "thegridelectric",
+  "license": "MIT",
+  "package_name": "gwtype",
+  "project_name": "gridworks-type-registry",
+  "version": "0.0.0"
+}
